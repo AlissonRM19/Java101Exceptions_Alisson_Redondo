@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"Ejemplo1","l":"Ejemplo1_DivisionDeNumeros"},{"p":"Ejemplo2","l":"Ejemplo2_Adivina_El_Nombre"},{"p":"Ejemplo3","l":"Ejemplo3_Mago"}];updateSearchResults();
